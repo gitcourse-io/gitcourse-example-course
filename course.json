@@ -1,0 +1,21 @@
+{
+  "version": "1",
+  "title": "Flink 教程",
+  "author": "GitCourse",
+  "groups": [
+    {
+      "title": "入门教程",
+      "scenarios": [
+        {
+          "title": "Flink环境搭建",
+          "steps": [
+            {
+              "title": "Setup: Download and Start Flink",
+              "text": "setup/text.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
