@@ -15,6 +15,15 @@
               "text": "setup/text.md"
             }
           ]
+        },
+        {
+          "title": "Flink环境测试",
+          "steps": [
+            {
+              "title": "Run the Example",
+              "text": "setup/text.md"
+            }
+          ]
         }
       ]
     }
