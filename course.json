@@ -3,27 +3,22 @@
   "title": "Flink 教程",
   "author": "GitCourse",
   "description": "Apache Flink is an open source platform for distributed stream and batch data processing. Flink’s core is a streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams. Flink builds batch processing on top of the streaming engine, overlaying native iteration support, managed memory, and program optimization.",
-  "groups": [
+  "scenarios": [
     {
-      "title": "入门教程",
-      "scenarios": [
+      "title": "Flink环境搭建",
+      "steps": [
         {
-          "title": "Flink环境搭建",
-          "steps": [
-            {
-              "title": "Setup: Download and Start Flink",
-              "text": "setup/text.md"
-            }
-          ]
-        },
+          "title": "Setup: Download and Start Flink",
+          "text": "setup/text.md"
+        }
+      ]
+    },
+    {
+      "title": "Flink环境测试",
+      "steps": [
         {
-          "title": "Flink环境测试",
-          "steps": [
-            {
-              "title": "Run the Example",
-              "text": "setup/text.md"
-            }
-          ]
+          "title": "Run the Example",
+          "text": "setup/text.md"
         }
       ]
     }
