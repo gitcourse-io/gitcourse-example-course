@@ -10,6 +10,10 @@
         {
           "title": "Setup: Download and Start Flink",
           "text": "setup/text.md"
+        },
+        {
+          "title": "第二步",
+          "text": "setup/text.md"
         }
       ]
     },
