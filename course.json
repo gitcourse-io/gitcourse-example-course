@@ -6,6 +6,7 @@
   "scenarios": [
     {
       "title": "Flink环境搭建",
+      "pre": "pre.sh",
       "steps": [
         {
           "title": "Setup: Download and Start Flink",
