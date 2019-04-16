@@ -11,7 +11,8 @@
         {
           "title": "Setup: Download and Start Flink",
           "text": "setup/text.md",
-          "check": "check.sh"
+          "check": "check.sh",
+          "preload": "preload.js"
         },
         {
           "title": "第二步",
