@@ -10,7 +10,8 @@
       "steps": [
         {
           "title": "Setup: Download and Start Flink",
-          "text": "setup/text.md"
+          "text": "setup/text.md",
+          "check": "check.sh"
         },
         {
           "title": "第二步",
