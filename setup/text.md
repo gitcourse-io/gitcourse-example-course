@@ -5,3 +5,5 @@ You can check the correct installation of Java by issuing the following command:
 ```
 java -version
 ```
+# Image
+[pic1](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/pic1.png)
