@@ -24,6 +24,7 @@
     },
     {
       "title": "Flink环境测试",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-base",
       "steps": [
         {
           "title": "Run the Example",
