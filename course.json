@@ -9,7 +9,7 @@
       "pre": "pre.sh",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-base",
       "enableDesktop": true,
-      "binds": ["/tmp:/tmp:ro"],
+      "binds": ["/tmp:/data:ro"],
       "steps": [
         {
           "title": "Setup: Download and Start Flink",
