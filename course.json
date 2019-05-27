@@ -35,6 +35,8 @@
     },
     {
       "title": "批量数据处理",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-base",
+      "hideTerminal": true,
       "steps": [
         {
           "title": "Run the Example",
@@ -44,6 +46,7 @@
     },
     {
       "title": "集群环境搭建",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-base",
       "steps": [
         {
           "title": "Run the Example",
@@ -53,6 +56,7 @@
     },
     {
       "title": "认证和权限控制",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-base",
       "steps": [
         {
           "title": "Run the Example",
