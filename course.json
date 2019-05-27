@@ -7,7 +7,7 @@
     {
       "title": "Flink环境搭建",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:cloudware-base",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-base",
       "enableDesktop": true,
       "steps": [
         {
