@@ -32,7 +32,7 @@
           "title": "Run the Example",
           "text": "setup/text.md",
           "programs": ["bg.sh"],
-          "extraTab": "[domain]:[:80]/1.py"
+          "extraTab": "[domain]:[:8888]/notebooks/main.ipynb"
         }
       ]
     },
