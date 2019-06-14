@@ -26,11 +26,13 @@
     },
     {
       "title": "Flink环境测试",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-base",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:nb-golang",
       "steps": [
         {
           "title": "Run the Example",
-          "text": "setup/text.md"
+          "text": "setup/text.md",
+          "programs": ["bg.sh"],
+          "extraTab": "[domain]:[:80]/1.py"
         }
       ]
     },
