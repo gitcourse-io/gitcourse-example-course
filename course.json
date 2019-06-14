@@ -31,7 +31,7 @@
         {
           "title": "Run the Example",
           "text": "setup/text.md",
-          "programs": ["bg.sh"],
+          "program": "bg.sh",
           "extraTab": "[domain]:[:8888]/notebooks/main.ipynb"
         }
       ]
