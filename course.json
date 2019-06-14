@@ -15,7 +15,8 @@
           "title": "Setup: Download and Start Flink",
           "text": "setup/text.md",
           "check": "check.sh",
-          "preload": "preload.js"
+          "preload": "preload.js",
+          "extraTab": "https://baidu.com"
         },
         {
           "title": "第二步",
