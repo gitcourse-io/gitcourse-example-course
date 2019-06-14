@@ -33,6 +33,11 @@
           "text": "setup/text.md",
           "program": "bg.sh",
           "extraTab": "[domain]:[:8888]/notebooks/main.ipynb"
+        },
+        {
+          "title": "环境测试2",
+          "text": "setup/text.md",
+          "extraTab": "[domain]:[:8888]/notebooks/basic%20knowledge/1.ipynb"
         }
       ]
     },

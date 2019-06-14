@@ -10,3 +10,8 @@ java -version
 
 # Image local
 ![](/img.png)
+
+第一步check通过需要执行
+```
+touch file
+```
