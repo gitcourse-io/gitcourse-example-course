@@ -29,7 +29,7 @@
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:nb-golang",
       "steps": [
         {
-          "title": "Run the Example",
+          "title": "环境测试",
           "text": "setup/text.md",
           "program": "bg.sh",
           "extraTab": "[domain]:[:8888]/notebooks/main.ipynb"
