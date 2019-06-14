@@ -1,1 +1,1 @@
-/jupyter
+jupyter notebook
